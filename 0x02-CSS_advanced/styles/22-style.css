@@ -549,7 +549,7 @@
      padding: 0.5rem;
  }
  
-[data-section-theme=“dark]{
+[data-section-theme="dark"] {
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
     background-color: var(--colour-black);
